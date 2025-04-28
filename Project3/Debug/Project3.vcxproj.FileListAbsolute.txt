@@ -1,0 +1,2 @@
+U:\CS210 Projects\Project3\Debug\Project3.exe
+U:\CS210 Projects\Project3\Debug\Project3.pdb
